@@ -1,0 +1,6 @@
+{
+  "name": "Lembar — Perpustakaan Digital Mahasiswa & Gen Z",
+  "description": "Konsep dan prototipe interaktif perpustakaan digital modern dengan pengalaman penemuan ala aplikasi hiburan, gamifikasi kebiasaan baca, klub baca virtual, dan antarmuka ramah mata.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
